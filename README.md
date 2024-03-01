@@ -5,5 +5,5 @@ This repo is for solving leetcode with though process so that everyone can under
 # - Medium 
 # - Hard
 # - Leetcode Contests
-  #.1 Biweekly
-  #.2 Weekly
+  # Biweekly
+  # Weekly
